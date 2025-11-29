@@ -34,6 +34,8 @@ int main(){
             continue;
         }
 
+        printf("\n");
+
         CalcFatorial(num);
 
         break;
