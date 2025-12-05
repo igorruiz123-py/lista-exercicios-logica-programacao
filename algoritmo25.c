@@ -3,7 +3,7 @@
 #include <string.h>
 
 /*
-Fazer um programa em "C" que lê um string contendo 2 palavras separadas por
+Fazer um programa em "C" que lê um string contendo palavras separadas por
 um espaço em branco cada e as imprime uma abaixo das outras.
 */
 
